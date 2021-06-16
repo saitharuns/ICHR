@@ -123,13 +123,13 @@ label{
   font-weight: 70;
 	border: thin;
   padding: 0.5em 1.5em;
-  position: relative;
+  position: absolute;
   color:white;
   font-style: 1.2em;
   cursor: pointer;
   background:black;
   border-radius: 40px;
-  top: 30px;
+  top: 530px;
   left:440px;
   transition: all 0.3s;
 }
