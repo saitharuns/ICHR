@@ -2,7 +2,7 @@ var pos=0,cor=0,board,choice,qus,A,B,C;
 
 var questions =[
 	["Indian constitution came into force on","26th  jan 1950 ","26th nov 1940","15th aug 1947","26th oct 1949","A"],
-/*	["The chairman of the constituent assembly was","Dr .B.R.Ambedkar ","Rajendra Prasad","Pandit Nehru","Mahatma Gandhi","B"],
+	["The chairman of the constituent assembly was","Dr .B.R.Ambedkar ","Rajendra Prasad","Pandit Nehru","Mahatma Gandhi","B"],
 	["Who among the following appointed the Governor of the states in India?","The Prime Minister"," The Parliament"," The Chief Ministers"," The President","D"],
 	["How many Schedules are contained in the Constitution of India?","12 schedules","20 schedules","10 schedules","25 schedules","A"],
 	["Who is empowered to declare National Emergency?","Prime Minister of India ","President","Governors of State","Parliament","B"],
@@ -41,7 +41,7 @@ var questions =[
 	["The Arms Act was enacted by the Parliament of India in which year?","1958","1959","1960","1961","B"],
 	["Wildlife Protection Act was enacted in which year?","1970","1972","1975","1986","B"],
 	["Who among the following was appointed the head of the first committee to design a GST model?","Vijay Kelkar","Asim Dasgupta","Pranab Mukerjee","V.P.Singh","B"],
-*/	];
+	];
 
 	function Displayquestion()
 	{
