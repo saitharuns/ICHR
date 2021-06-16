@@ -125,7 +125,7 @@ label{
   padding: 0.5em 1.5em;
   color:white;
   font-style: 1.2em;
-  position:absolute;
+  position:fixed;
   cursor: pointer;
   background:black;
   border-radius: 40px;
