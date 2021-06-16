@@ -129,7 +129,7 @@ label{
   cursor: pointer;
   background:black;
   border-radius: 40px;
-  top: 40px;
+  top: 30px;
   left:440px;
   transition: all 0.3s;
 }
