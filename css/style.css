@@ -151,15 +151,16 @@ border-radius: 10px;
   outline: none;
   color: #9DCEFE;
   font-style: 1.2em;
-  position:absolute;
+  position:fixed;
   z-index: 1;
   cursor: pointer;
   background: none;
   text-shadow: 3px 3px 10px rgba(0, 0, 0, 0.45);
-  top: 520px;
-  left:470px;
+  top: 450px;
+  left:450px;
   text-decoration:none;
 }
+
 
 .button1:before,
 .button1:after {
