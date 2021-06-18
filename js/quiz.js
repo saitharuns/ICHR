@@ -6,10 +6,10 @@ var questions =[
 	["Who among the following appointed the Governor of the states in India?","The Prime Minister"," The Parliament"," The Chief Ministers"," The President","D"],
 	["How many Schedules are contained in the Constitution of India?","12 schedules","20 schedules","10 schedules","25 schedules","A"],
 	["Who is empowered to declare National Emergency?","Prime Minister of India ","President","Governors of State","Parliament","B"],
-	["Who appointed the Chief Justice and Other Judges of the Supreme Court of India?","Prime Minister of India",". The Governor of the concerning State","The C.M of the concerned State","President of India","D"],
+	["Who appointed the Chief Justice and Other Judges of the Supreme Court of India?","Prime Minister of India","The Governor of the concerning State","The C.M of the concerned State","President of India","D"],
 	[" The Fundamental Duties were included in the Constitution of India by which of the following Amendment Act?","40th Amendment Act"," 44th Amendment Act","43rd Amendment Act","42nd Amendment Act","D"],
 	[" The Fundamental Duties are mentioned in:","Part-IV A","Part-IV","Part-III","In schedule IV-A","A"],
-	[" Which of the following Article of the Indian Constitution contains Fundamental Duties?","45 A","51 A","42",",30B","B"],
+	[" Which of the following Article of the Indian Constitution contains Fundamental Duties?","45 A","51 A","42","30 B","B"],
 	[" Which Article of the Indian Constitution abolishes Untouchability?","Article 18","Article 15","Article 14","Article 17","D"],
 	[" In which part of the Indian Constitution, the Fundamental Rights are provided?","Part II","Part III","Part V","Part IV","B"],
 	[" Who is the current chairman of the National Human Rights Commission?","Justice A.S. Anand","Justice H.L. Dattu","Justice S. Rajendra Babu","Justice K. Balakrishnan","B"],
@@ -49,7 +49,7 @@ var questions =[
 		if(pos>=questions.length)
 		{
 			board.innerHTML="<p class='p2 p3'> You got "+cor+" of "+questions.length;
-			board.innerHTML+="<a href='https://drive.google.com/file/d/1upr4aODv3lh9PkTQUcroGh-7uLRqZhYC/view?usp=sharing'<button class='button1'>download Answer</button></a>";
+			board.innerHTML+="<a href='https://drive.google.com/file/d/1upr4aODv3lh9PkTQUcroGh-7uLRqZhYC/view?usp=sharing'<button class='button1'>Download Answer</button></a>";
 			
 			document.getElementById("status").innerHTML="<p class='qc'> Quiz completed";
 			
